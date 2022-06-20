@@ -1,0 +1,2 @@
+# Inizio-del-progetto-utilizzando-Spring-Boot-per-NetBeans-13-IDE-con-Java-11
+Generazione di un progetto Spring Boot attraverso Spring Initializr è molto semplice, impostare Maven come file dipendenze, Java 11 come linguaggio di programmazione, la versione attuale da Spring Boot come 2.7.0, Group as com.example e Artifact as springboot e infine selezionando la prima dipendenza del progetto: SpringWeb. Il progetto viene generato in pochi secondi.
